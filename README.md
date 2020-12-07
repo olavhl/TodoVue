@@ -1,4 +1,4 @@
-# vuetify-todo
+# Vuetify Todo
 
 Tiny todo-app made with Vue JS and Vuetify
 
