@@ -1,5 +1,7 @@
 # vuetify-todo
 
+Tiny todo-app made with Vue JS and Vuetify
+
 ## Project setup
 ```
 npm install
